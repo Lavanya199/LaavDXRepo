@@ -4,13 +4,14 @@
     "default" : true,
     "package" : "ModuleT1",
     "versionName" : "ModuleT1",
-    "versionNumber" : "1.0.0.0"
+    "versionNumber" : "1.0.0.3"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "46.0",
   "packageAliases" : {
     "ModuleT1" : "0Ho3i000000fxUCCAY",
-    "ModuleT1@1.0.0.0" : "04t3i000001ExWWAA0"
+    "ModuleT1@1.0.0.0" : "04t3i000001ExWWAA0",
+    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC"
   }
 }

@@ -5,6 +5,16 @@
     "package" : "ModuleT1",
     "versionName" : "ModuleT1",
     "versionNumber" : "1.0.0.3"
+  }, {
+    "path" : "ModuleT1",
+    "default" : false,
+    "package" : "Base Package",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT",
+    "dependencies" : [ {
+      "package" : "Userstory2",
+      "versionNumber" : "1.0.0.0"
+    } ]
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -12,6 +22,7 @@
   "packageAliases" : {
     "ModuleT1" : "0Ho3i000000fxUCCAY",
     "ModuleT1@1.0.0.0" : "04t3i000001ExWWAA0",
-    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC"
+    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC",
+    "Base Package" : "0Ho3i000000fxUMCAY"
   }
 }

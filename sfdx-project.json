@@ -1,7 +1,13 @@
 {
   "packageDirectories" : [ {
-    "path" : "ModuleT1",
+    "path" : "Userstory2",
     "default" : true,
+    "package" : "Userstory2",
+    "versionName" : "Userstory2",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "ModuleT1",
+    "default" : false,
     "package" : "ModuleT1",
     "versionName" : "ModuleT1",
     "versionNumber" : "1.0.0.3"
@@ -12,6 +18,8 @@
   "packageAliases" : {
     "ModuleT1" : "0Ho3i000000fxUCCAY",
     "ModuleT1@1.0.0.0" : "04t3i000001ExWWAA0",
-    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC"
+    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC",
+    "Userstory2" : "0Ho3i000000fxUHCAY",
+    "Userstory2@1.0.0.0" : "04t3i000001FYCYAA4"
   }
 }

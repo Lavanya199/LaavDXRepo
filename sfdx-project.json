@@ -1,10 +1,16 @@
 {
   "packageDirectories" : [ {
     "path" : "ModuleT1",
-    "default" : true,
+    "default" : false,
     "package" : "ModuleT1",
     "versionName" : "ModuleT1",
     "versionNumber" : "1.0.0.3"
+  }, {
+    "path" : "DXFM-Userstory4",
+    "default" : true,
+    "package" : "DXFM-Userstory4",
+    "versionName" : "DXFM-Userstory4",
+    "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -12,6 +18,8 @@
   "packageAliases" : {
     "ModuleT1" : "0Ho3i000000fxUCCAY",
     "ModuleT1@1.0.0.0" : "04t3i000001ExWWAA0",
-    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC"
+    "ModuleT1@1.0.0.3" : "04t3i000001Exn7AAC",
+    "DXFM-Userstory4" : "0Ho3i000000fxUWCAY",
+    "DXFM-Userstory4@1.0.0.0" : "04t3i000001Fa4UAAS"
   }
 }
